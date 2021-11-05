@@ -1,0 +1,6 @@
+bilangan fibonacci merupakan deret angka yang di dapatkan dari penjumlahan 2 angka sebelumnya dengan 2 angka pertama bernilai 1
+bilangan fibonacci 1,1,2,3,5,8,13,21,34,55
+rumus  Un = Un-2 + Un-1
+jika di cari nya nilai bilangan ke 6 maka bilangan 5 di tambah bilangan ke 4 
+if diminta bilangan 0 maka menampilkan 0
+else maka menjumlahkan 2 angka bilangan fibonacci sebelumnya

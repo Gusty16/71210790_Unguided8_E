@@ -1,0 +1,9 @@
+1021+1022+1023+…+3018+3019+3020 = ?
+sn = n/2(2a+(n-1)b)
+n = 3020-1020= 2000
+a = 1021 (bilangan pertama)
+b = 1 (beda bilangan pertama sama bilagan kedua)
+sn =2000/2(2.1021+(2000-1)1)
+sn =1000(2042+1999)
+sn =1000.4041
+sn =4041000
